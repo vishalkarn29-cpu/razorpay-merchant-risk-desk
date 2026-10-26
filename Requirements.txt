@@ -1,0 +1,6 @@
+pandas==3.*
+scikit-learn==1.9.*
+fastapi
+uvicorn
+pydantic
+requests
